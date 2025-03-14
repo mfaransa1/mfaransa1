@@ -3,8 +3,7 @@
 🚀 Tech Enthusiast | Web Developer | Software Solutions Architect
 I'm an amateur web developer and tech enthusiast passionate about building modern, user-friendly web applications. I enjoy exploring C#, JavaScript, and PHP to create interactive and scalable solutions. Currently, I'm working on HuruHabitat KE, a tenant-landlord platform, and KurarinSolutions, my tech startup focusing on web and software development.
 
-**🔧 Skills & Technologies
-**
+<b> 🔧 Skills & Technologies </b> 
 Programming: C#, JavaScript, PHP
 
 Web Development: HTML, CSS, Bootstrap, WordPress
