@@ -1,5 +1,30 @@
 # 💫 About Me:
-👋 Hi, I'm Pardon Freezer (mfaransa1)<br>🚀 Tech Enthusiast | Web Developer | Software Solutions Architect<br><br>I'm an amateur web developer and tech enthusiast passionate about building *modern, user-friendly web applications. I enjoy exploring *C#, JavaScript, and PHP to create interactive and scalable solutions.<br><br>Currently, I'm working on *HuruHabitat KE, a tenant-landlord platform, and *KurarinSolutions, my tech startup focusing on web and software development.<br><br>🔧 Skills & Technologies<br>Programming: C#, JavaScript, PHP<br>Web Development: HTML, CSS, Bootstrap, WordPress<br>Database: MySQL<br>Projects: Web apps, business automation, and tech solutions<br>💡 Current Projects<br>HuruHabitat KE – A smart rent management platform<br>KurarinSolutions – A tech startup offering web & mobile solutions<br>Love Calculator – Enhancing UI/UX and refining logic<br>📫 Let's Connect<br>LinkedIn: Pardon Freezer<br>Telegram: @tekitaway_bot<br>Tech Blog: Tech-IT Away<br>🔹 Always exploring, always learning!
+
+# 👋 Hi, I'm Pardon Freezer (mfaransa1)  
+
+🚀 **Tech Enthusiast | Web Developer | Software Solutions Architect**  
+
+I'm an amateur web developer and tech enthusiast passionate about building **modern, user-friendly web applications**. I enjoy exploring **C#, JavaScript, and PHP** to create interactive and scalable solutions.  
+
+Currently, I'm working on **HuruHabitat KE**, a tenant-landlord platform, and **KurarinSolutions**, my tech startup focusing on web and software development.  
+
+## 🔧 Skills & Technologies  
+- **Programming:** C#, JavaScript, PHP  
+- **Web Development:** HTML, CSS, Bootstrap, WordPress  
+- **Database:** MySQL  
+- **Projects:** Web apps, business automation, and tech solutions  
+
+## 💡 Current Projects  
+- **HuruHabitat KE** – A smart rent management platform  
+- **KurarinSolutions** – A tech startup offering web & mobile solutions  
+- **Love Calculator** – Enhancing UI/UX and refining logic  
+
+## 📫 Let's Connect  
+- LinkedIn: *Coming Soon*  
+- Telegram: [@tekitaway_bot](https://t.me/tekitaway_bot)  
+- Tech Blog: [Tech-IT Away](https://t.me/idontcare_idc)  
+
+🔹 Always exploring, always learning!  
 
 
 ## 🌐 Socials:
