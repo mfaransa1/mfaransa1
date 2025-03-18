@@ -20,7 +20,7 @@ Currently, I'm working on **HuruHabitat KE**, a tenant-landlord platform, and **
 - **Love Calculator** – Enhancing UI/UX and refining logic  
 
 ## 📫 Let's Connect  
-- LinkedIn: *Coming Soon*  
+- LinkedIn: [*Pardon Freezer*](https://ke.linkedin.com/in/pardonfreezer)  
 - Telegram: [@tekitaway_bot](https://t.me/tekitaway_bot)  
 - Tech Blog: [Tech-IT Away](https://t.me/idontcare_idc)  
 
