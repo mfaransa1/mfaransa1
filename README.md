@@ -16,7 +16,8 @@ Currently, I'm working on **HuruHabitat KE**, a tenant-landlord platform, and **
 
 ## 💡 Current Projects  
 - **HuruHabitat KE** – A smart rent management platform  
-- **KurarinSolutions** – A tech startup offering web & mobile solutions  
+- **KurarinSolutions** – A tech startup offering web & mobile solutions
+- - **BoB Van Transfers** – A website for Airport & Hotel transfers in Nairobi  
 - **Love Calculator** – Enhancing UI/UX and refining logic  
 
 ## 📫 Let's Connect  
