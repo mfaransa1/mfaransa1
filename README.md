@@ -18,8 +18,7 @@ Currently, I'm working on **HuruHabitat KE**, a tenant-landlord platform, and **
 - **HuruHabitat KE** – A smart rent management platform  
 - **KurarinSolutions** – A tech startup offering web & mobile solutions
 - **BoB Van Transfers** – A website for Airport & Hotel transfers in Nairobi  
-- **Love Calculator** – Enhancing UI/UX and refining logic  
-
+- **WAAROSCA** – a simple web application designed for managing contributions, savings, and loans within a sacco or table banking system.
 ## 📫 Let's Connect  
 - LinkedIn: [*Pardon Freezer*](https://ke.linkedin.com/in/pardonfreezer)  
 - Telegram: [@tekitaway_bot](https://t.me/tekitaway_bot)  
